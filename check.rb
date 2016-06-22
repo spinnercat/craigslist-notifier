@@ -1,3 +1,5 @@
+require "set"
+
 # Log stores a record of which urls we've already notified the user about. These will be skipped.
 log_file_name = "/Users/MSchorow/Projects/craigslist-notifier/log.txt"
 
